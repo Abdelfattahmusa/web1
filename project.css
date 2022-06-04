@@ -1,0 +1,335 @@
+
+    
+    body{
+    background-image: url(Artboard%2011.png);
+    background-repeat: no-repeat;
+background-size:100% 859px;
+        overflow-x: hidden;
+
+
+   
+}
+
+.logo{
+ color: white;
+    font-family: monospace;
+    font-size: 40px;
+    margin: 20px 0 0 400px;
+     cursor: pointer;
+}
+.logo a{
+    color: white;
+    text-decoration: none;
+}
+.nav{
+        margin: -35px 0 300px 800px;
+    cursor: pointer;
+}
+nav ul li{
+display: inline;
+    color: white;
+    margin: 0 10px 0 10px;
+    font-size: 18px;
+    float: left;
+    
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: red;
+}
+hr{
+    opacity: 0.1;
+}
+.section1{
+    color: white;
+      font-family: monospace;
+       font-size: 60px;
+    width: 600px;
+    margin-left: 400px;}
+.section1 div{
+    color: white;
+     width: 600px;
+      font-family: monospace;
+       font-size: 18px;
+    margin-top: 30px;
+    
+}
+.section1 p{
+    color: white;
+     width: 600px;
+      font-family: monospace;
+       font-size: 17px;
+background-color:#f55858;
+    width: 130px;
+    height: 30px;
+    padding-left:  10px;
+    padding-top: 4px;
+    border-radius: 20px;
+    cursor: pointer;
+
+    
+}
+.section1 a{
+text-decoration: none;
+    color: white;
+}
+.section1 p:hover{
+    background-color:darkorange;
+}
+.imag{
+    background-image: url(slider-icon.png);
+background-size: 500px 500px;
+    width: 500px;
+    height:500px;
+    background-repeat: no-repeat;
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+
+
+.section2{  font-family: monospace;
+       font-size: 20px;
+    width: 500px;
+    margin-left: 700px;
+margin-top: 500px;
+opacity: 0.6;}
+.imag2{
+    background-image: url(left-image.png);
+background-size: 500px 400px;
+width: 500px;
+height: 400px;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-top: -400px;
+}
+.section2 div{
+    font-size: 34px;
+    opacity: 1;
+    border-style: solid;
+    border-width: 3px;
+    border-color: transparent transparent darkcyan transparent;
+    margin: 10px;
+}
+.section2 p{
+        color: white;
+     width: 600px;
+      font-family: monospace;
+       font-size: 17px;
+background-color: darkcyan;
+    width: 130px;
+    height: 30px;
+    padding-left:  10px;
+    padding-top: 4px;
+    border-radius: 20px;
+    opacity: 0.9;
+    cursor: pointer;
+
+    
+    
+}
+.section2 a{
+text-decoration: none;
+    color: white;
+}
+.section2 p:hover{
+    background-color: cornflowerblue;
+}
+.section3{  font-family: monospace;
+       font-size: 20px;
+    width: 500px;
+    margin-left:130px;
+margin-top: 300px;
+    opacity: 0.8;
+}
+.section3 a{
+text-decoration: none;
+    color: white;
+}
+.section3 div{
+    font-size: 34px;
+    margin: 10px;
+}
+.section3 p{
+        color: white;
+     width: 600px;
+      font-family: monospace;
+       font-size: 17px;
+background-color: darkcyan;
+    width: 130px;
+    height: 30px;
+    padding-left:  10px;
+    padding-top: 4px;
+    border-radius: 20px;
+    opacity: 0.8;
+    cursor: pointer;
+}
+.section3 div{
+    font-size: 34px;
+    opacity: 1;
+    border-style: solid;
+    border-width: 3px;
+    border-color: transparent transparent darkcyan transparent;
+    margin: 10px;
+}
+.section3 p:hover{
+    background-color: cornflowerblue;
+}
+.section3 .one{
+    font-size: 25px;
+    border: none;
+    margin: 20px;
+    background-color: darkcyan;
+    padding-left: 20px;
+   height: 40px;
+    opacity: 0.9;
+
+}
+.section3 .one div{
+       border-style: solid;
+    border-color: transparent transparent transparent red;
+    border-width: 20px;
+    margin: 10px;
+    margin-bottom: -36px;
+     margin-left: -20px;
+    
+}
+.section3 .tow{
+    font-size: 25px;
+     border: none;
+    margin: 20px;
+     background-color: darkcyan;
+    padding-left: 20px;
+   height: 40px;
+     opacity: 0.9;
+}
+.section3 .tow div{
+       border-style: solid;
+    border-color: transparent transparent transparent red;
+    border-width: 20px;
+    margin: 10px;
+     margin-bottom: -36px;
+     margin-left: -20px;
+    
+}
+
+.section3 .three{
+    font-size: 25px;
+     border: none;
+    margin: 20px;
+     background-color: darkcyan;
+    padding-left: 20px;
+   height: 40px;
+     opacity: 0.9;
+
+}
+.section3 .three div{
+       border-style: solid;
+    border-color: transparent transparent transparent red;
+    border-width: 20px;
+    margin: 10px;
+     margin-bottom: -36px;
+    margin-left: -20px;
+    
+}
+.imag3 {
+  background-image: url(right-image.png);
+  background-size: 500px 400px;
+  width: 500px;
+  height: 400px;
+  background-repeat: no-repeat;
+  margin-left: 680px;
+  margin-top: -440px;
+}
+    
+
+   .section4 {
+  background-image: linear-gradient(to right ,aqua , cornflowerblue);
+  height: auto;
+  margin-top: 140px;
+  display: grid;
+  grid-template-rows: repeat(3,1fr);
+  align-content: flex-start;
+  justify-items: center;
+  width: 100%;
+}
+.section4 div{
+    background-color:#f7f7f7;
+    width: 330px;
+    height: 330px;
+    font-size: 20px;
+   display:grid;
+       align-content:flex-end;
+  justify-items: center;
+
+    
+ 
+ 
+}
+.section4 .imag4 {
+  background-image: url(first-main-icon.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+.section4 .imag4 p{
+    font-family: fantasy;
+    color: white;
+    background-color:darkturquoise;
+    border-radius: 7px;
+    width: 180px;
+    height: 28px;
+    text-align: center;
+    margin-top: -100px;
+     opacity: 0.7;
+}
+.section4 .imag5{
+    background-image: url(second-main-icon.png);
+    background-repeat: no-repeat;
+     background-position: center;
+        border-radius: 50%;
+    
+}
+.section4 .imag5 p{
+    font-family: fantasy;
+    color: white;
+    background-color:darkturquoise;
+    border-radius: 7px;
+    width: 150px;
+    height: 28px;
+    text-align: center;
+    margin-top: -100px;
+     opacity: 0.7;
+}
+.section4 .imag6{
+    background-image: url(third-main-icon.png);
+    background-repeat: no-repeat;
+     background-position: center;
+        border-radius: 50%;
+}
+.section4 .imag6 p{
+    font-family: fantasy;
+    color: white;
+    background-color:darkturquoise;
+    border-radius: 7px;
+    width: 150px;
+    height: 28px;
+    text-align: center;
+    margin-top: -100px;
+    opacity: 0.7;
+}
+.footer{
+    height: 200px;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 22px;
+opacity: 0.6;   
+}
+.footer a{
+      text-decoration:none; 
+}
+/*media querry nav*/
